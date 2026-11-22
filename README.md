@@ -1,5 +1,5 @@
 # PF-Lab-task-7
-M. Moiz Siddiqui
-26P-0038
-BAI-1A
-Sir Aais Rabbani
+Name: M.Moiz Siddiqui
+Roll Number: 26P-0038
+Section: AI-1A
+Instructor Name: Sir Aais Rabbani
